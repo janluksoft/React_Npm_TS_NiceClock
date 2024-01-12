@@ -11,7 +11,7 @@ This page demonstrates using React component - analog and digital clock with a r
 - ClockMub software is developed from the author's version;
 - Index.tsx renders three clocks (three instances of class ClockMub) each with a different size;
 - Npm instaled local libraries: react v18.2, react-dom v18.2, react-scripts v5.0 with babel-loader v8.3;
-- Project written in Visual Studio Code;
+- Project written in Visual Studio Code.
 
 .
 ![](jpg/Clocks_tsx3.jpg)
