@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Segoe UI', 'Roboto', 'Oxygen', sans-serif;
+  font-size: 11pt;
+  padding: 12px;
+  background-color: #fbf9df;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3 {
+  margin: 2px;
+  padding: 2px;
+}
+
